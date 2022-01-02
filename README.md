@@ -8,6 +8,12 @@
 Badshah653/Badshah653 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center"><a href="https://t.me/Badshah7867"><img src="https://te.legra.ph/file/149ee7f9b7912f6541a44.jpg"></a></p>
+
+
+
+
 ### deployed to Heroku
 
 
