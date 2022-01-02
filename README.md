@@ -45,3 +45,14 @@ You can click the Preview link to take a look at your changes.
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@badshah7867/StringSession)
 
 
+
+
+
+
+
+### Copy Pasters You Can Copy This But Must Give Credits ...
+
+#### Main Developer = [badshah (faisal Raaz)](https://t.me/Badshah7867)
+
+
+
