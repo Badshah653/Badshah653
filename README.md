@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### Get String Session
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Badshah7867/StringSession)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Badshah653/StringSession)
 
 
 
